@@ -1,0 +1,12 @@
+#!/bin/bash
+
+clear
+
+display_mode=2
+
+for mapId in {0..9}; do
+	echo "Arena: $mapId"
+    for initPos in True False; do
+        python tetracomposibot.py config_Paintwars "$mapId" "$initPos" "$display_mode"
+    done
+done

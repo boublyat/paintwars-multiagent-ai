@@ -1,0 +1,1014 @@
+trial 195 score 17.47 abs_dx 17.47 dist 47.83
+Trying strategy no. 195 param = [0, -1, -1, -1, 1, 1, 0, 1]
+        trial 196 score 11.14 abs_dx 3.21 dist 26.89
+Trying strategy no. 196 param = [0, 1, -1, 0, 1, 0, -1, 0]
+        trial 197 score 0.0 abs_dx 0.0 dist 0.74
+Trying strategy no. 197 param = [1, 0, 1, -1, 1, 0, 0, 1]
+        trial 198 score 12.06 abs_dx 3.71 dist 21.18
+Trying strategy no. 198 param = [0, 0, -1, 1, 0, 0, 0, 1]
+        trial 199 score 2.74 abs_dx 2.51 dist 20.5
+Trying strategy no. 199 param = [-1, -1, -1, 0, -1, 1, 0, 1]
+        trial 200 score 21.12 abs_dx 13.45 dist 29.02
+Trying strategy no. 200 param = [0, 0, -1, -1, 1, -1, -1, -1]
+        trial 201 score 11.43 abs_dx 0.6 dist 3.29
+Trying strategy no. 201 param = [0, -1, 0, -1, 0, -1, -1, 1]
+        trial 202 score 14.39 abs_dx 14.25 dist 36.28
+Trying strategy no. 202 param = [-1, 0, 1, 0, 0, -1, 1, 1]
+        trial 203 score 9.05 abs_dx 9.05 dist 9.18
+Trying strategy no. 203 param = [1, 1, -1, 1, -1, -1, 0, 0]
+        trial 204 score 11.52 abs_dx 3.59 dist 16.48
+Trying strategy no. 204 param = [-1, -1, 1, 1, -1, 0, 1, 1]
+        trial 205 score 9.02 abs_dx 9.02 dist 9.11
+Trying strategy no. 205 param = [0, 1, 0, -1, -1, 0, 1, 0]
+        trial 206 score 7.01 abs_dx 7.01 dist 40.47
+Trying strategy no. 206 param = [1, 1, 1, 0, -1, 1, 1, -1]
+        trial 207 score 42.91 abs_dx 2.7 dist 53.0
+Trying strategy no. 207 param = [0, 0, 0, -1, 0, 1, -1, -1]
+        trial 208 score 6.56 abs_dx 0.0 dist 1.01
+Trying strategy no. 208 param = [-1, -1, 0, 0, 0, -1, 0, 0]
+        trial 209 score 14.58 abs_dx 12.67 dist 22.64
+Trying strategy no. 209 param = [-1, -1, 0, -1, -1, 1, 0, 0]
+        trial 210 score 36.74 abs_dx 36.74 dist 64.12
+Trying strategy no. 210 param = [-1, 0, 1, 0, 0, 1, -1, 1]
+        trial 211 score 9.06 abs_dx 9.06 dist 9.19
+Trying strategy no. 211 param = [0, 0, 1, 1, 1, -1, 0, 1]
+        trial 212 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 212 param = [1, 1, 0, -1, -1, 0, -1, 0]
+        trial 213 score 23.52 abs_dx 19.15 dist 53.61
+Trying strategy no. 213 param = [1, 1, -1, -1, 0, 1, 1, 1]
+        trial 214 score 1.67 abs_dx 0.1 dist 25.69
+Trying strategy no. 214 param = [1, -1, 0, -1, 1, 0, -1, 0]
+        trial 215 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 215 param = [0, 0, 1, 0, -1, 0, -1, -1]
+        trial 216 score 14.44 abs_dx 9.37 dist 13.07
+Trying strategy no. 216 param = [-1, 1, 1, 1, -1, 1, -1, 1]
+        trial 217 score 2.17 abs_dx 0.03 dist 1.33
+Trying strategy no. 217 param = [-1, 0, 1, 1, 1, 0, 1, -1]
+        trial 218 score 18.92 abs_dx 16.39 dist 17.76
+Trying strategy no. 218 param = [1, -1, 1, 1, 0, -1, -1, 1]
+        trial 219 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 219 param = [-1, 0, 1, 1, 0, 1, -1, 1]
+        trial 220 score 16.83 abs_dx 12.95 dist 14.66
+Trying strategy no. 220 param = [1, -1, 0, 0, 1, -1, 0, -1]
+        trial 221 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 221 param = [1, 0, 1, 0, 0, 0, 0, 1]
+        trial 222 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 222 param = [1, -1, -1, 0, 0, -1, 1, -1]
+        trial 223 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 223 param = [1, -1, 0, 1, 1, 1, -1, -1]
+        trial 224 score 41.67 abs_dx 32.19 dist 53.74
+Trying strategy no. 224 param = [0, 1, 0, 0, 1, -1, 1, 1]
+        trial 225 score 9.26 abs_dx 0.0 dist 0.56
+Trying strategy no. 225 param = [1, -1, -1, -1, -1, 1, -1, 1]
+        trial 226 score 8.45 abs_dx 8.45 dist 53.05
+Trying strategy no. 226 param = [0, 0, 1, 0, -1, 1, -1, -1]
+        trial 227 score 14.64 abs_dx 14.57 dist 15.34
+Trying strategy no. 227 param = [0, 1, -1, 0, 1, 1, 1, 1]
+        trial 228 score 0.51 abs_dx 0.12 dist 30.41
+Trying strategy no. 228 param = [-1, 1, 1, -1, 1, 0, 1, 0]
+        trial 229 score 9.06 abs_dx 9.06 dist 12.71
+Trying strategy no. 229 param = [0, -1, 0, -1, 0, -1, 1, 1]
+        trial 230 score 23.0 abs_dx 21.02 dist 41.83
+Trying strategy no. 230 param = [1, 1, 1, 1, 1, -1, -1, 0]
+        trial 231 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 231 param = [0, 0, -1, -1, 0, -1, -1, 1]
+        trial 232 score 22.88 abs_dx 20.82 dist 56.86
+Trying strategy no. 232 param = [1, 1, 1, -1, -1, -1, 0, 0]
+        trial 233 score 15.19 abs_dx 7.27 dist 7.5
+Trying strategy no. 233 param = [0, 0, 1, 0, -1, 0, -1, -1]
+        trial 234 score 14.44 abs_dx 9.37 dist 13.07
+Trying strategy no. 234 param = [1, -1, 1, 1, 1, 0, -1, 0]
+        trial 235 score 5.46 abs_dx 5.46 dist 53.25
+Trying strategy no. 235 param = [0, 1, 1, -1, 1, 0, -1, 0]
+        trial 236 score 2.26 abs_dx 2.26 dist 52.94
+Trying strategy no. 236 param = [-1, 1, 0, -1, 1, 1, 1, 1]
+        trial 237 score 14.79 abs_dx 13.11 dist 15.29
+Trying strategy no. 237 param = [0, 1, 0, 1, 1, 1, 0, 0]
+        trial 238 score 13.47 abs_dx 13.14 dist 16.17
+Trying strategy no. 238 param = [1, 1, 1, 0, 1, 1, 0, -1]
+        trial 239 score 19.51 abs_dx 17.81 dist 26.29
+Trying strategy no. 239 param = [-1, -1, 1, -1, 0, -1, 1, 1]
+        trial 240 score 16.18 abs_dx 5.64 dist 33.63
+Trying strategy no. 240 param = [-1, 1, 0, 1, -1, 1, -1, 0]
+        trial 241 score 18.24 abs_dx 17.0 dist 22.22
+Trying strategy no. 241 param = [1, 1, -1, 0, -1, -1, -1, -1]
+        trial 242 score 12.33 abs_dx 11.94 dist 53.9
+Trying strategy no. 242 param = [-1, -1, 0, 0, -1, 1, 1, 1]
+        trial 243 score 14.91 abs_dx 10.29 dist 13.44
+Trying strategy no. 243 param = [0, -1, 0, 1, 1, 1, 1, 0]
+        trial 244 score 48.9 abs_dx 48.33 dist 54.08
+Trying strategy no. 244 param = [0, 1, 1, -1, -1, -1, 1, 0]
+        trial 245 score 16.72 abs_dx 13.85 dist 18.08
+Trying strategy no. 245 param = [0, 0, -1, 1, 1, 0, -1, 0]
+        trial 246 score 0.09 abs_dx 0.0 dist 32.06
+Trying strategy no. 246 param = [1, -1, -1, 0, -1, 1, 1, 0]
+        trial 247 score 1.38 abs_dx 1.35 dist 1.47
+Trying strategy no. 247 param = [-1, -1, -1, 0, -1, 0, -1, 0]
+        trial 248 score 14.51 abs_dx 5.81 dist 14.37
+Trying strategy no. 248 param = [0, -1, -1, -1, -1, 0, -1, 1]
+        trial 249 score 14.84 abs_dx 5.47 dist 40.74
+Trying strategy no. 249 param = [-1, 1, -1, 1, -1, 0, 0, 1]
+        trial 250 score 9.07 abs_dx 9.07 dist 10.19
+Trying strategy no. 250 param = [0, 1, 0, 0, 0, 0, 1, -1]
+        trial 251 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 251 param = [1, 1, 0, -1, 1, -1, 1, 1]
+        trial 252 score 9.56 abs_dx 0.23 dist 1.72
+Trying strategy no. 252 param = [-1, 0, -1, 1, -1, -1, 0, 0]
+        trial 253 score 8.98 abs_dx 0.89 dist 16.33
+Trying strategy no. 253 param = [-1, 0, 0, -1, -1, 0, -1, -1]
+        trial 254 score 10.99 abs_dx 0.21 dist 22.52
+Trying strategy no. 254 param = [1, 0, 0, -1, -1, -1, 1, -1]
+        trial 255 score 1.92 abs_dx 1.92 dist 50.01
+Trying strategy no. 255 param = [1, 1, 1, 0, -1, 0, 1, -1]
+        trial 256 score 19.22 abs_dx 17.13 dist 17.13
+Trying strategy no. 256 param = [1, 1, -1, 0, 1, -1, 1, 1]
+        trial 257 score 9.27 abs_dx 0.31 dist 2.98
+Trying strategy no. 257 param = [1, 0, 0, -1, -1, 0, -1, -1]
+        trial 258 score 1.1 abs_dx 0.1 dist 44.86
+Trying strategy no. 258 param = [1, -1, -1, -1, 1, 0, 1, 1]
+        trial 259 score 0.51 abs_dx 0.49 dist 8.76
+Trying strategy no. 259 param = [-1, 1, 1, 1, 1, 0, 1, -1]
+        trial 260 score 18.88 abs_dx 18.6 dist 22.94
+Trying strategy no. 260 param = [0, -1, -1, 1, 0, -1, -1, -1]
+        trial 261 score 7.98 abs_dx 0.47 dist 0.48
+Trying strategy no. 261 param = [1, 0, -1, 0, -1, 0, 0, -1]
+        trial 262 score 0.17 abs_dx 0.06 dist 11.83
+Trying strategy no. 262 param = [0, -1, 0, 1, 1, 1, 0, 0]
+        trial 263 score 42.98 abs_dx 39.35 dist 42.94
+Trying strategy no. 263 param = [1, -1, 0, 1, 1, -1, -1, -1]
+        trial 264 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 264 param = [0, 0, 0, 0, 1, 1, 1, 1]
+        trial 265 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 265 param = [-1, 0, 1, -1, 0, 1, 1, 1]
+        trial 266 score 13.84 abs_dx 7.8 dist 7.83
+Trying strategy no. 266 param = [-1, 1, 0, -1, -1, 1, -1, 0]
+        trial 267 score 9.88 abs_dx 2.72 dist 27.68
+Trying strategy no. 267 param = [1, 1, 1, -1, -1, 1, 1, -1]
+        trial 268 score 42.99 abs_dx 4.58 dist 52.47
+Trying strategy no. 268 param = [-1, 1, -1, 0, 0, 0, 1, 1]
+        trial 269 score 11.46 abs_dx 9.79 dist 9.88
+Trying strategy no. 269 param = [0, 1, 0, -1, -1, -1, 0, -1]
+        trial 270 score 39.29 abs_dx 39.29 dist 63.54
+Trying strategy no. 270 param = [-1, 1, 0, 0, -1, -1, 0, 0]
+        trial 271 score 9.03 abs_dx 9.03 dist 12.97
+Trying strategy no. 271 param = [0, 0, -1, -1, -1, 1, 1, 1]
+        trial 272 score 15.65 abs_dx 9.73 dist 15.65
+Trying strategy no. 272 param = [-1, 1, 1, 0, 0, -1, -1, 1]
+        trial 273 score 4.14 abs_dx 4.0 dist 4.03
+Trying strategy no. 273 param = [0, 0, -1, 1, -1, 0, 0, -1]
+        trial 274 score 0.32 abs_dx 0.08 dist 24.27
+Trying strategy no. 274 param = [-1, 1, -1, 1, 1, 0, 0, 1]
+        trial 275 score 8.92 abs_dx 8.84 dist 9.22
+Trying strategy no. 275 param = [-1, -1, 1, -1, 1, -1, 1, 1]
+        trial 276 score 12.27 abs_dx 1.04 dist 20.16
+Trying strategy no. 276 param = [0, -1, 1, 0, 0, 0, 0, 1]
+        trial 277 score 8.11 abs_dx 8.11 dist 16.67
+Trying strategy no. 277 param = [1, -1, -1, -1, 0, -1, 1, -1]
+        trial 278 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 278 param = [-1, -1, 1, 1, 0, 0, -1, 1]
+        trial 279 score 8.2 abs_dx 8.2 dist 8.28
+Trying strategy no. 279 param = [1, 0, -1, 0, 0, 0, -1, 0]
+        trial 280 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 280 param = [1, -1, 0, 0, 0, 0, 0, 0]
+        trial 281 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 281 param = [0, 0, 1, 1, 1, 1, 1, 1]
+        trial 282 score 15.59 abs_dx 7.67 dist 17.7
+Trying strategy no. 282 param = [1, 1, -1, -1, 0, -1, 0, -1]
+        trial 283 score 0.99 abs_dx 0.2 dist 12.91
+Trying strategy no. 283 param = [-1, 1, 1, 0, -1, 1, 1, 0]
+        trial 284 score 4.08 abs_dx 3.92 dist 4.7
+Trying strategy no. 284 param = [1, -1, 1, -1, 1, -1, -1, 0]
+        trial 285 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 285 param = [1, 1, -1, 0, 1, 1, 0, -1]
+        trial 286 score 11.33 abs_dx 9.18 dist 28.33
+Trying strategy no. 286 param = [0, 1, -1, 1, 0, 0, -1, 1]
+        trial 287 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 287 param = [0, 1, 0, 1, 1, 0, -1, 1]
+        trial 288 score 21.14 abs_dx 7.78 dist 40.43
+Trying strategy no. 288 param = [-1, 1, -1, -1, -1, 0, 1, 1]
+        trial 289 score 18.59 abs_dx 13.3 dist 17.77
+Trying strategy no. 289 param = [-1, -1, 0, 0, -1, 1, 1, 1]
+        trial 290 score 14.91 abs_dx 10.29 dist 13.44
+Trying strategy no. 290 param = [-1, -1, 0, 1, 0, 0, -1, -1]
+        trial 291 score 16.1 abs_dx 16.1 dist 18.95
+Trying strategy no. 291 param = [1, 0, 1, 0, 1, 1, 1, -1]
+        trial 292 score 13.61 abs_dx 13.49 dist 14.37
+Trying strategy no. 292 param = [1, 1, -1, -1, 1, -1, 0, -1]
+        trial 293 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 293 param = [-1, 0, -1, -1, -1, 1, -1, 0]
+        trial 294 score 18.85 abs_dx 18.85 dist 19.57
+Trying strategy no. 294 param = [-1, 0, 1, -1, 0, 0, 0, -1]
+        trial 295 score 16.0 abs_dx 5.88 dist 7.29
+Trying strategy no. 295 param = [0, -1, 0, -1, -1, 1, 0, 0]
+        trial 296 score 1.85 abs_dx 0.16 dist 9.22
+Trying strategy no. 296 param = [0, 1, -1, -1, 0, -1, 1, -1]
+        trial 297 score 6.73 abs_dx 2.86 dist 35.71
+Trying strategy no. 297 param = [-1, 1, -1, 1, -1, -1, 0, 0]
+        trial 298 score 9.04 abs_dx 9.04 dist 9.27
+Trying strategy no. 298 param = [0, 1, 1, -1, 0, -1, 1, 0]
+        trial 299 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 299 param = [0, -1, -1, -1, 1, -1, 1, 0]
+        trial 300 score 17.7 abs_dx 6.45 dist 34.39
+Trying strategy no. 300 param = [-1, -1, -1, 0, 1, 1, 1, 0]
+        trial 301 score 11.5 abs_dx 0.08 dist 16.14
+Trying strategy no. 301 param = [1, -1, -1, -1, 0, 0, 1, 1]
+        trial 302 score 2.1 abs_dx 0.48 dist 10.04
+Trying strategy no. 302 param = [1, 1, -1, 1, 0, 0, 0, -1]
+        trial 303 score 14.31 abs_dx 12.95 dist 18.05
+Trying strategy no. 303 param = [1, -1, 0, 1, 0, 0, -1, -1]
+        trial 304 score 9.47 abs_dx 5.9 dist 6.65
+Trying strategy no. 304 param = [-1, -1, 0, 1, 1, 1, -1, 0]
+        trial 305 score 9.12 abs_dx 8.21 dist 30.89
+Trying strategy no. 305 param = [0, 1, 0, 0, -1, 1, 0, 1]
+        trial 306 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 306 param = [1, 1, 0, -1, -1, -1, -1, 0]
+        trial 307 score 20.03 abs_dx 18.47 dist 47.78
+Trying strategy no. 307 param = [1, -1, -1, -1, 0, 1, 1, -1]
+        trial 308 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 308 param = [-1, -1, -1, 0, -1, 1, -1, -1]
+        trial 309 score 16.46 abs_dx 16.44 dist 16.56
+Trying strategy no. 309 param = [-1, 0, 0, 1, -1, 1, 0, 0]
+        trial 310 score 2.68 abs_dx 2.68 dist 2.83
+Trying strategy no. 310 param = [1, 1, 0, -1, 1, -1, 1, 0]
+        trial 311 score 11.88 abs_dx 4.27 dist 9.03
+Trying strategy no. 311 param = [0, -1, -1, 0, 1, 0, 1, 0]
+        trial 312 score 2.4 abs_dx 0.07 dist 37.86
+Trying strategy no. 312 param = [0, 0, -1, 0, 1, -1, 1, 0]
+        trial 313 score 2.15 abs_dx 0.42 dist 33.61
+Trying strategy no. 313 param = [-1, 0, 1, -1, 1, 0, -1, 1]
+        trial 314 score 12.08 abs_dx 1.12 dist 8.62
+Trying strategy no. 314 param = [1, -1, 0, -1, -1, -1, 1, 1]
+        trial 315 score 42.69 abs_dx 42.69 dist 47.42
+Trying strategy no. 315 param = [-1, 1, 0, 0, 1, 1, 0, 0]
+        trial 316 score 9.06 abs_dx 9.06 dist 11.07
+Trying strategy no. 316 param = [0, 0, 0, 0, 1, -1, 0, 0]
+        trial 317 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 317 param = [0, 1, 0, 0, 1, -1, -1, 0]
+        trial 318 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 318 param = [-1, -1, 1, -1, -1, -1, -1, 0]
+        trial 319 score 12.12 abs_dx 7.13 dist 12.62
+Trying strategy no. 319 param = [0, 1, -1, 0, 1, -1, 1, -1]
+        trial 320 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 320 param = [-1, 1, 0, 0, 1, 1, 1, 0]
+        trial 321 score 9.02 abs_dx 9.02 dist 10.94
+Trying strategy no. 321 param = [1, 1, 1, -1, 0, 0, -1, 1]
+        trial 322 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 322 param = [-1, -1, -1, -1, 1, 0, 1, -1]
+        trial 323 score 18.94 abs_dx 18.94 dist 19.22
+Trying strategy no. 323 param = [0, 0, -1, -1, 1, 0, 0, 1]
+        trial 324 score 10.74 abs_dx 1.42 dist 32.02
+Trying strategy no. 324 param = [0, 1, 0, 1, 1, -1, 1, 1]
+        trial 325 score 11.4 abs_dx 0.42 dist 8.53
+Trying strategy no. 325 param = [1, 0, -1, -1, 0, 0, 1, -1]
+        trial 326 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 326 param = [-1, 1, -1, 1, 0, -1, 0, -1]
+        trial 327 score 9.04 abs_dx 9.04 dist 9.15
+Trying strategy no. 327 param = [0, -1, -1, 0, 0, 0, -1, 1]
+        trial 328 score 42.12 abs_dx 42.12 dist 44.54
+Trying strategy no. 328 param = [0, 0, -1, 0, -1, 1, 0, -1]
+        trial 329 score 13.7 abs_dx 1.86 dist 26.13
+Trying strategy no. 329 param = [-1, -1, -1, 0, -1, 1, -1, -1]
+        trial 330 score 16.46 abs_dx 16.44 dist 16.56
+Trying strategy no. 330 param = [-1, -1, -1, 0, -1, 0, 1, -1]
+        trial 331 score 15.13 abs_dx 0.01 dist 2.53
+Trying strategy no. 331 param = [0, 1, 0, 0, 1, -1, 1, 1]
+        trial 332 score 9.26 abs_dx 0.0 dist 0.56
+Trying strategy no. 332 param = [1, 1, -1, 1, 1, -1, -1, -1]
+        trial 333 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 333 param = [-1, 0, 1, 0, 1, 0, 0, -1]
+        trial 334 score 4.52 abs_dx 4.52 dist 5.23
+Trying strategy no. 334 param = [1, -1, 0, 0, 0, -1, -1, -1]
+        trial 335 score 1.25 abs_dx 0.04 dist 11.58
+Trying strategy no. 335 param = [0, 1, 0, 0, 1, 0, 0, 1]
+        trial 336 score 10.88 abs_dx 1.77 dist 10.92
+Trying strategy no. 336 param = [0, 1, 1, -1, 1, 0, 1, 1]
+        trial 337 score 12.99 abs_dx 10.04 dist 11.22
+Trying strategy no. 337 param = [0, 0, 0, -1, 0, 0, 0, 0]
+        trial 338 score 42.62 abs_dx 42.62 dist 42.62
+Trying strategy no. 338 param = [0, -1, 1, -1, 1, 1, -1, -1]
+        trial 339 score 1.51 abs_dx 0.21 dist 5.23
+Trying strategy no. 339 param = [-1, 1, -1, -1, -1, 0, 0, -1]
+        trial 340 score 23.2 abs_dx 23.2 dist 49.21
+Trying strategy no. 340 param = [-1, 0, -1, -1, 1, -1, 0, 0]
+        trial 341 score 42.52 abs_dx 42.52 dist 46.97
+Trying strategy no. 341 param = [-1, -1, 1, 1, 1, -1, -1, 0]
+        trial 342 score 9.08 abs_dx 9.08 dist 10.85
+Trying strategy no. 342 param = [0, 0, 1, 1, -1, 0, 1, 1]
+        trial 343 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 343 param = [-1, 1, -1, -1, 1, 1, -1, 1]
+        trial 344 score 11.49 abs_dx 8.3 dist 18.2
+Trying strategy no. 344 param = [1, 0, 1, -1, 1, 0, -1, -1]
+        trial 345 score 3.34 abs_dx 3.34 dist 53.07
+Trying strategy no. 345 param = [0, 1, 0, 0, -1, 0, -1, 1]
+        trial 346 score 10.26 abs_dx 0.36 dist 15.03
+Trying strategy no. 346 param = [1, 0, 1, -1, 0, 1, 1, 0]
+        trial 347 score 9.43 abs_dx 6.18 dist 6.59
+Trying strategy no. 347 param = [1, 0, 0, 0, -1, 0, -1, 1]
+        trial 348 score 11.46 abs_dx 0.45 dist 9.7
+Trying strategy no. 348 param = [1, 1, -1, 0, -1, 0, 0, 1]
+        trial 349 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 349 param = [0, 0, 0, 0, 0, -1, -1, 1]
+        trial 350 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 350 param = [1, -1, -1, -1, 1, 1, 0, 1]
+        trial 351 score 0.53 abs_dx 0.07 dist 7.15
+Trying strategy no. 351 param = [0, 0, 1, 0, 1, 1, 1, 1]
+        trial 352 score 14.39 abs_dx 8.09 dist 11.83
+Trying strategy no. 352 param = [-1, 1, -1, 1, 0, -1, 0, 0]
+        trial 353 score 9.01 abs_dx 9.01 dist 9.46
+Trying strategy no. 353 param = [0, 0, 0, 1, 1, -1, -1, 0]
+        trial 354 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 354 param = [1, -1, -1, 0, -1, 1, 0, -1]
+        trial 355 score 13.7 abs_dx 1.87 dist 26.29
+Trying strategy no. 355 param = [0, 1, -1, 0, -1, -1, -1, 0]
+        trial 356 score 0.27 abs_dx 0.04 dist 8.99
+Trying strategy no. 356 param = [-1, -1, -1, 1, 1, 1, -1, 0]
+        trial 357 score 10.61 abs_dx 8.86 dist 19.85
+Trying strategy no. 357 param = [1, 1, -1, -1, 0, -1, 0, -1]
+        trial 358 score 0.99 abs_dx 0.2 dist 12.91
+Trying strategy no. 358 param = [0, 0, 1, 1, 0, 1, 1, -1]
+        trial 359 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 359 param = [-1, 0, 1, 0, 1, 0, 1, 0]
+        trial 360 score 9.0 abs_dx 9.0 dist 9.25
+Trying strategy no. 360 param = [-1, 1, 0, 0, -1, 0, 0, 0]
+        trial 361 score 9.03 abs_dx 9.03 dist 12.69
+Trying strategy no. 361 param = [1, 0, -1, -1, 1, 0, 1, 1]
+        trial 362 score 0.34 abs_dx 0.3 dist 28.54
+Trying strategy no. 362 param = [-1, -1, 1, 1, 0, 1, 0, 0]
+        trial 363 score 9.05 abs_dx 9.05 dist 12.62
+Trying strategy no. 363 param = [0, 1, 0, 0, 1, 1, 0, -1]
+        trial 364 score 15.87 abs_dx 14.54 dist 21.01
+Trying strategy no. 364 param = [-1, 1, 0, -1, 1, -1, -1, -1]
+        trial 365 score 10.05 abs_dx 7.03 dist 28.66
+Trying strategy no. 365 param = [0, 1, -1, -1, 0, -1, 0, 1]
+        trial 366 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 366 param = [0, -1, 0, 0, 1, 0, -1, -1]
+        trial 367 score 18.69 abs_dx 8.67 dist 13.67
+Trying strategy no. 367 param = [-1, 0, 1, 1, 1, 0, 0, 1]
+        trial 368 score 16.17 abs_dx 15.33 dist 16.67
+Trying strategy no. 368 param = [0, 1, 0, 0, 0, 0, 1, 0]
+        trial 369 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 369 param = [1, 1, 1, -1, 1, -1, -1, 1]
+        trial 370 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 370 param = [1, 1, -1, 1, -1, -1, 0, -1]
+        trial 371 score 10.99 abs_dx 7.9 dist 22.26
+Trying strategy no. 371 param = [-1, 0, 1, 0, -1, 0, 0, 0]
+        trial 372 score 9.02 abs_dx 9.02 dist 9.2
+Trying strategy no. 372 param = [-1, -1, 0, -1, -1, 1, 0, 1]
+        trial 373 score 21.15 abs_dx 19.66 dist 31.41
+Trying strategy no. 373 param = [0, 0, 0, -1, 0, -1, 0, -1]
+        trial 374 score 6.08 abs_dx 2.1 dist 48.33
+Trying strategy no. 374 param = [1, 1, 0, -1, 1, -1, 1, 0]
+        trial 375 score 11.88 abs_dx 4.27 dist 9.03
+Trying strategy no. 375 param = [-1, 1, 0, 0, 0, 0, 1, 0]
+        trial 376 score 9.01 abs_dx 9.01 dist 9.88
+Trying strategy no. 376 param = [0, -1, 0, 0, -1, 1, 1, -1]
+        trial 377 score 0.09 abs_dx 0.02 dist 0.38
+Trying strategy no. 377 param = [0, 1, -1, 0, 1, 1, -1, 0]
+        trial 378 score 0.4 abs_dx 0.05 dist 24.11
+Trying strategy no. 378 param = [1, 1, 1, 1, 0, 1, -1, 0]
+        trial 379 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 379 param = [-1, 1, -1, -1, 1, 1, -1, -1]
+        trial 380 score 7.53 abs_dx 7.53 dist 38.13
+Trying strategy no. 380 param = [0, 1, 0, -1, 0, 1, 0, 0]
+        trial 381 score 8.54 abs_dx 8.26 dist 45.4
+Trying strategy no. 381 param = [1, 0, 1, 1, 0, 0, 0, 0]
+        trial 382 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 382 param = [-1, -1, 1, 0, 0, -1, 0, -1]
+        trial 383 score 14.47 abs_dx 10.9 dist 13.11
+Trying strategy no. 383 param = [1, 1, 1, 0, -1, 1, 0, 0]
+        trial 384 score 42.96 abs_dx 42.44 dist 42.88
+Trying strategy no. 384 param = [1, -1, -1, -1, -1, 1, 1, 1]
+        trial 385 score 3.68 abs_dx 3.68 dist 3.8
+Trying strategy no. 385 param = [0, 0, 1, 1, -1, 0, 1, 0]
+        trial 386 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 386 param = [1, -1, -1, -1, 0, -1, 0, 1]
+        trial 387 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 387 param = [1, 0, -1, 1, 1, 1, 0, -1]
+        trial 388 score 42.97 abs_dx 42.91 dist 52.33
+Trying strategy no. 388 param = [1, 0, 1, -1, 0, -1, -1, 0]
+        trial 389 score 9.27 abs_dx 0.08 dist 7.2
+Trying strategy no. 389 param = [-1, -1, -1, -1, -1, 0, 1, -1]
+        trial 390 score 15.2 abs_dx 0.0 dist 0.92
+Trying strategy no. 390 param = [-1, -1, 1, 1, 1, -1, 0, 0]
+        trial 391 score 9.02 abs_dx 9.02 dist 9.93
+Trying strategy no. 391 param = [-1, 0, -1, 1, 1, 1, 0, 0]
+        trial 392 score 24.64 abs_dx 20.58 dist 37.81
+Trying strategy no. 392 param = [0, -1, 1, -1, -1, 0, 0, 1]
+        trial 393 score 42.93 abs_dx 42.93 dist 60.1
+Trying strategy no. 393 param = [0, -1, 0, -1, -1, 0, 0, 0]
+        trial 394 score 13.74 abs_dx 7.65 dist 45.02
+Trying strategy no. 394 param = [0, 1, 1, -1, -1, -1, 0, -1]
+        trial 395 score 15.97 abs_dx 11.14 dist 25.1
+Trying strategy no. 395 param = [0, 1, -1, 1, 1, -1, -1, -1]
+        trial 396 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 396 param = [1, 0, 1, -1, 1, -1, -1, -1]
+        trial 397 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 397 param = [0, 0, 0, 1, 1, 1, -1, -1]
+        trial 398 score 41.62 abs_dx 34.28 dist 53.85
+Trying strategy no. 398 param = [1, 1, -1, -1, 1, -1, 0, 0]
+        trial 399 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 399 param = [1, 0, 1, 1, -1, 0, -1, -1]
+        trial 400 score 11.57 abs_dx 6.75 dist 9.62
+Trying strategy no. 400 param = [-1, -1, 1, 1, -1, 0, -1, -1]
+        trial 401 score 9.0 abs_dx 9.0 dist 13.39
+Trying strategy no. 401 param = [0, -1, 0, 0, 0, 1, 1, 1]
+        trial 402 score 3.93 abs_dx 2.56 dist 37.39
+Trying strategy no. 402 param = [-1, 1, 1, 0, 0, 0, 0, -1]
+        trial 403 score 18.39 abs_dx 8.78 dist 9.39
+Trying strategy no. 403 param = [-1, 0, -1, 0, 1, -1, -1, 0]
+        trial 404 score 18.45 abs_dx 11.75 dist 15.62
+Trying strategy no. 404 param = [1, -1, 0, 1, 0, -1, 0, -1]
+        trial 405 score 9.69 abs_dx 5.88 dist 9.38
+Trying strategy no. 405 param = [-1, -1, -1, 1, -1, 0, 0, 0]
+        trial 406 score 14.6 abs_dx 8.51 dist 24.56
+Trying strategy no. 406 param = [1, -1, -1, -1, -1, 0, 0, -1]
+        trial 407 score 0.48 abs_dx 0.05 dist 3.61
+Trying strategy no. 407 param = [-1, -1, 0, 0, 0, -1, 1, -1]
+        trial 408 score 14.74 abs_dx 0.02 dist 2.28
+Trying strategy no. 408 param = [1, -1, 0, -1, 0, 0, 0, 1]
+        trial 409 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 409 param = [1, 1, -1, 0, 0, -1, 0, 0]
+        trial 410 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 410 param = [-1, 0, 1, 1, 0, 0, 1, -1]
+        trial 411 score 42.98 abs_dx 42.98 dist 52.07
+Trying strategy no. 411 param = [1, 1, 1, -1, -1, -1, -1, 0]
+        trial 412 score 15.33 abs_dx 11.99 dist 19.89
+Trying strategy no. 412 param = [1, 1, -1, 0, 1, 1, -1, 1]
+        trial 413 score 9.36 abs_dx 2.49 dist 13.23
+Trying strategy no. 413 param = [0, 0, 0, 1, -1, 1, 1, 0]
+        trial 414 score 42.95 abs_dx 42.95 dist 55.56
+Trying strategy no. 414 param = [-1, -1, 0, 0, 0, 0, 0, 0]
+        trial 415 score 42.71 abs_dx 42.71 dist 42.71
+Trying strategy no. 415 param = [-1, -1, 1, 1, -1, 1, 0, 0]
+        trial 416 score 2.95 abs_dx 2.95 dist 5.29
+Trying strategy no. 416 param = [0, 1, -1, 0, 1, -1, 0, 1]
+        trial 417 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 417 param = [-1, 1, 0, -1, 0, 0, -1, 0]
+        trial 418 score 12.49 abs_dx 11.06 dist 35.65
+Trying strategy no. 418 param = [-1, 0, 1, -1, 0, 0, -1, 1]
+        trial 419 score 42.48 abs_dx 42.48 dist 43.9
+Trying strategy no. 419 param = [0, 0, 1, -1, 0, 0, 1, 0]
+        trial 420 score 9.03 abs_dx 9.03 dist 13.96
+Trying strategy no. 420 param = [-1, -1, 0, 0, 0, -1, 0, -1]
+        trial 421 score 14.77 abs_dx 13.96 dist 14.87
+Trying strategy no. 421 param = [-1, 1, 0, 1, -1, 0, 0, -1]
+        trial 422 score 15.78 abs_dx 15.78 dist 19.91
+Trying strategy no. 422 param = [0, 1, -1, -1, -1, -1, 1, 1]
+        trial 423 score 42.53 abs_dx 42.53 dist 48.2
+Trying strategy no. 423 param = [-1, 1, 1, -1, -1, -1, -1, 1]
+        trial 424 score 9.04 abs_dx 9.04 dist 14.27
+Trying strategy no. 424 param = [-1, 1, 0, 1, -1, -1, 0, 0]
+        trial 425 score 15.38 abs_dx 13.37 dist 16.08
+Trying strategy no. 425 param = [1, 0, -1, 0, 0, 0, -1, 0]
+        trial 426 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 426 param = [1, 0, 0, 1, 1, 0, -1, 0]
+        trial 427 score 3.34 abs_dx 3.34 dist 53.07
+Trying strategy no. 427 param = [-1, 0, -1, -1, 1, -1, 1, -1]
+        trial 428 score 42.8 abs_dx 42.8 dist 46.97
+Trying strategy no. 428 param = [-1, -1, 0, 1, -1, -1, 1, 1]
+        trial 429 score 42.54 abs_dx 42.54 dist 45.71
+Trying strategy no. 429 param = [1, 1, -1, 1, -1, 0, -1, 1]
+        trial 430 score 14.16 abs_dx 0.33 dist 15.46
+Trying strategy no. 430 param = [0, 0, -1, 0, 0, -1, 1, -1]
+        trial 431 score 4.84 abs_dx 0.68 dist 9.5
+Trying strategy no. 431 param = [0, 1, 0, -1, 0, -1, 1, -1]
+        trial 432 score 4.26 abs_dx 1.41 dist 40.63
+Trying strategy no. 432 param = [-1, 1, 0, 1, 0, -1, 1, 1]
+        trial 433 score 3.21 abs_dx 2.92 dist 2.93
+Trying strategy no. 433 param = [0, -1, -1, 0, 1, 1, -1, 0]
+        trial 434 score 2.36 abs_dx 2.35 dist 9.53
+Trying strategy no. 434 param = [0, 0, 0, 1, -1, -1, 0, 1]
+        trial 435 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 435 param = [-1, -1, -1, 1, -1, 0, -1, 1]
+        trial 436 score 16.07 abs_dx 3.23 dist 26.26
+Trying strategy no. 436 param = [0, 1, 1, 1, 1, 0, -1, 0]
+        trial 437 score 2.52 abs_dx 2.52 dist 53.0
+Trying strategy no. 437 param = [0, 0, -1, -1, 1, 0, 1, -1]
+        trial 438 score 18.35 abs_dx 18.05 dist 22.08
+Trying strategy no. 438 param = [-1, 1, 1, -1, -1, 0, 0, 0]
+        trial 439 score 9.0 abs_dx 9.0 dist 14.51
+Trying strategy no. 439 param = [-1, 1, 0, -1, 1, -1, -1, 1]
+        trial 440 score 42.91 abs_dx 42.91 dist 47.94
+Trying strategy no. 440 param = [-1, 1, 0, -1, 1, -1, 0, 0]
+        trial 441 score 42.6 abs_dx 42.6 dist 47.9
+Trying strategy no. 441 param = [1, -1, -1, -1, 1, 1, -1, 0]
+        trial 442 score 0.54 abs_dx 0.19 dist 15.52
+Trying strategy no. 442 param = [1, 0, -1, 1, -1, 0, -1, -1]
+        trial 443 score 8.88 abs_dx 6.47 dist 11.45
+Trying strategy no. 443 param = [0, 0, 1, 0, 1, 1, -1, 1]
+        trial 444 score 14.68 abs_dx 13.13 dist 13.15
+Trying strategy no. 444 param = [-1, -1, 1, 1, 0, -1, 0, 1]
+        trial 445 score 9.1 abs_dx 9.1 dist 9.1
+Trying strategy no. 445 param = [0, 1, -1, -1, 1, 0, 0, -1]
+        trial 446 score 0.02 abs_dx 0.01 dist 0.68
+Trying strategy no. 446 param = [0, -1, 0, -1, 1, 0, -1, 0]
+        trial 447 score 8.67 abs_dx 8.67 dist 38.37
+Trying strategy no. 447 param = [-1, 0, -1, -1, 0, 1, -1, 0]
+        trial 448 score 42.39 abs_dx 42.39 dist 43.93
+Trying strategy no. 448 param = [0, 0, 1, 0, -1, -1, -1, 0]
+        trial 449 score 14.38 abs_dx 10.82 dist 13.77
+Trying strategy no. 449 param = [1, 0, -1, 1, -1, 0, 1, -1]
+        trial 450 score 12.24 abs_dx 10.88 dist 11.27
+Trying strategy no. 450 param = [-1, 0, 1, 0, 0, -1, 0, 1]
+        trial 451 score 9.1 abs_dx 9.1 dist 9.1
+Trying strategy no. 451 param = [-1, 0, 0, -1, 1, 0, 1, 1]
+        trial 452 score 11.76 abs_dx 6.54 dist 7.22
+Trying strategy no. 452 param = [-1, 1, -1, 0, 1, 1, 1, -1]
+        trial 453 score 15.52 abs_dx 15.41 dist 17.52
+Trying strategy no. 453 param = [-1, 0, -1, 1, 0, -1, 1, -1]
+        trial 454 score 11.28 abs_dx 11.25 dist 12.91
+Trying strategy no. 454 param = [-1, 0, 0, 0, 0, 1, 1, 1]
+        trial 455 score 11.02 abs_dx 2.85 dist 3.69
+Trying strategy no. 455 param = [0, 0, 0, 0, -1, 0, -1, 0]
+        trial 456 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 456 param = [-1, -1, 1, -1, 1, -1, 0, 0]
+        trial 457 score 42.3 abs_dx 42.3 dist 46.72
+Trying strategy no. 457 param = [-1, 0, 0, 1, 0, 1, -1, 1]
+        trial 458 score 9.07 abs_dx 9.07 dist 11.89
+Trying strategy no. 458 param = [-1, 0, 0, -1, -1, 1, -1, 1]
+        trial 459 score 42.85 abs_dx 42.85 dist 49.47
+Trying strategy no. 459 param = [0, 1, 1, -1, -1, 1, 0, 0]
+        trial 460 score 40.28 abs_dx 38.54 dist 50.65
+Trying strategy no. 460 param = [-1, 0, 1, 1, -1, 0, -1, 1]
+        trial 461 score 12.7 abs_dx 7.75 dist 11.23
+Trying strategy no. 461 param = [-1, -1, 0, -1, -1, -1, 1, 1]
+        trial 462 score 42.66 abs_dx 42.66 dist 46.12
+Trying strategy no. 462 param = [-1, 0, -1, -1, 1, 1, 1, 0]
+        trial 463 score 13.31 abs_dx 4.36 dist 4.66
+Trying strategy no. 463 param = [-1, 1, 1, 0, 1, 0, 1, 1]
+        trial 464 score 14.62 abs_dx 9.79 dist 11.47
+Trying strategy no. 464 param = [1, 0, 1, 0, 1, -1, -1, -1]
+        trial 465 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 465 param = [0, -1, 0, 1, -1, -1, 1, 1]
+        trial 466 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 466 param = [0, 1, -1, 0, 0, -1, -1, -1]
+        trial 467 score 1.33 abs_dx 0.28 dist 16.04
+Trying strategy no. 467 param = [1, -1, 0, 1, -1, 1, 0, 0]
+        trial 468 score 42.97 abs_dx 42.92 dist 43.3
+Trying strategy no. 468 param = [0, 1, 1, 0, 1, 0, -1, 1]
+        trial 469 score 33.89 abs_dx 31.34 dist 50.43
+Trying strategy no. 469 param = [-1, -1, 1, 0, 1, 1, 0, -1]
+        trial 470 score 15.82 abs_dx 7.93 dist 11.85
+Trying strategy no. 470 param = [0, 1, 0, -1, -1, -1, 0, -1]
+        trial 471 score 39.29 abs_dx 39.29 dist 63.54
+Trying strategy no. 471 param = [1, 0, -1, 0, -1, 1, 1, -1]
+        trial 472 score 0.04 abs_dx 0.04 dist 0.74
+Trying strategy no. 472 param = [1, 1, -1, 0, -1, 0, -1, 0]
+        trial 473 score 12.06 abs_dx 10.4 dist 53.87
+Trying strategy no. 473 param = [-1, -1, -1, 1, 1, 1, 0, -1]
+        trial 474 score 20.22 abs_dx 17.51 dist 18.33
+Trying strategy no. 474 param = [-1, 0, -1, 0, 1, 1, -1, 0]
+        trial 475 score 14.05 abs_dx 11.77 dist 13.76
+Trying strategy no. 475 param = [0, 1, -1, 1, 0, 0, 1, 0]
+        trial 476 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 476 param = [0, 0, 1, 0, 0, 0, -1, 1]
+        trial 477 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 477 param = [0, -1, 0, -1, 1, -1, 1, 1]
+        trial 478 score 16.61 abs_dx 10.31 dist 38.45
+Trying strategy no. 478 param = [0, 0, 0, -1, 0, -1, 1, -1]
+        trial 479 score 8.07 abs_dx 0.0 dist 31.92
+Trying strategy no. 479 param = [0, 0, 0, 0, 0, -1, 0, -1]
+        trial 480 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 480 param = [-1, 0, 1, 0, 0, -1, 1, -1]
+        trial 481 score 9.08 abs_dx 9.08 dist 9.18
+Trying strategy no. 481 param = [-1, 1, -1, 1, 1, -1, 1, -1]
+        trial 482 score 5.57 abs_dx 5.43 dist 8.98
+Trying strategy no. 482 param = [1, 1, -1, 0, 1, 1, -1, 0]
+        trial 483 score 12.26 abs_dx 11.05 dist 11.42
+Trying strategy no. 483 param = [1, -1, -1, 1, 1, 0, 1, 1]
+        trial 484 score 14.96 abs_dx 14.96 dist 40.47
+Trying strategy no. 484 param = [-1, 1, -1, -1, -1, 1, 0, 0]
+        trial 485 score 34.59 abs_dx 34.59 dist 63.17
+Trying strategy no. 485 param = [1, -1, -1, 0, 1, -1, 1, -1]
+        trial 486 score 2.35 abs_dx 0.2 dist 10.96
+Trying strategy no. 486 param = [-1, 0, 0, -1, 0, -1, -1, 1]
+        trial 487 score 14.49 abs_dx 8.56 dist 41.57
+Trying strategy no. 487 param = [0, 1, -1, 1, 0, -1, -1, -1]
+        trial 488 score 7.16 abs_dx 3.82 dist 32.53
+Trying strategy no. 488 param = [0, 0, -1, 1, 0, 0, 0, -1]
+        trial 489 score 0.85 abs_dx 0.85 dist 16.21
+Trying strategy no. 489 param = [0, -1, 1, 0, 1, -1, 0, 0]
+        trial 490 score 6.05 abs_dx 6.05 dist 8.39
+Trying strategy no. 490 param = [1, 1, 0, -1, 0, 0, 0, 1]
+        trial 491 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 491 param = [-1, 1, 0, 1, -1, 1, -1, -1]
+        trial 492 score 15.94 abs_dx 15.94 dist 20.57
+Trying strategy no. 492 param = [-1, 0, -1, -1, -1, 0, 1, 1]
+        trial 493 score 18.87 abs_dx 14.11 dist 16.58
+Trying strategy no. 493 param = [-1, -1, 0, 1, 0, 0, -1, 0]
+        trial 494 score 17.84 abs_dx 16.66 dist 19.09
+Trying strategy no. 494 param = [0, 0, 0, -1, 1, -1, 0, -1]
+        trial 495 score 0.27 abs_dx 0.27 dist 0.29
+Trying strategy no. 495 param = [-1, 1, 1, 0, 1, -1, -1, 1]
+        trial 496 score 2.47 abs_dx 0.13 dist 0.5
+Trying strategy no. 496 param = [0, -1, 1, -1, 0, 1, -1, -1]
+        trial 497 score 6.73 abs_dx 0.0 dist 0.87
+Trying strategy no. 497 param = [0, 0, 1, 0, 0, 0, 1, 0]
+        trial 498 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 498 param = [1, 1, 0, 1, 1, -1, 1, 1]
+        trial 499 score 12.04 abs_dx 0.03 dist 5.9
+Trying strategy no. 499 param = [-1, -1, 0, -1, 0, 1, -1, -1]
+        trial 500 score 10.41 abs_dx 0.03 dist 37.83
+Trying strategy no. 500 param = [0, 1, 1, -1, 1, 1, 0, 1]
+        trial 501 score 13.13 abs_dx 8.53 dist 9.41
+Trying strategy no. 501 param = [-1, -1, -1, 1, 0, 0, 0, 1]
+        trial 502 score 42.98 abs_dx 34.12 dist 39.24
+Trying strategy no. 502 param = [0, 0, -1, 1, 0, 1, 1, 0]
+        trial 503 score 0.31 abs_dx 0.05 dist 1.87
+Trying strategy no. 503 param = [1, -1, 1, 0, 0, 1, 1, 0]
+        trial 504 score 9.05 abs_dx 0.54 dist 15.61
+Trying strategy no. 504 param = [1, 0, -1, 0, 0, 0, 1, 1]
+        trial 505 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 505 param = [1, 0, -1, 1, 0, -1, 1, 0]
+        trial 506 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 506 param = [0, 0, 1, 0, 0, 0, 1, 0]
+        trial 507 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 507 param = [0, 1, -1, -1, 0, -1, 1, 1]
+        trial 508 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 508 param = [1, -1, 0, 1, 0, 1, 0, -1]
+        trial 509 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 509 param = [0, 1, 0, 1, 0, 0, 0, 1]
+        trial 510 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 510 param = [1, 1, 1, 1, -1, -1, -1, 0]
+        trial 511 score 11.63 abs_dx 9.73 dist 10.75
+Trying strategy no. 511 param = [1, 1, 1, -1, 1, -1, -1, 1]
+        trial 512 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 512 param = [0, -1, 0, 1, 1, 1, -1, 1]
+        trial 513 score 43.0 abs_dx 38.99 dist 42.75
+Trying strategy no. 513 param = [1, -1, 0, 1, 0, 0, 0, -1]
+        trial 514 score 11.95 abs_dx 3.14 dist 3.33
+Trying strategy no. 514 param = [0, -1, 1, 1, 1, 1, 0, 0]
+        trial 515 score 16.16 abs_dx 15.88 dist 23.61
+Trying strategy no. 515 param = [1, 1, 0, 0, -1, 0, 1, 0]
+        trial 516 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 516 param = [0, 0, 1, 0, -1, 0, 1, 0]
+        trial 517 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 517 param = [1, 0, 1, 0, 1, 1, -1, 1]
+        trial 518 score 14.61 abs_dx 11.3 dist 13.0
+Trying strategy no. 518 param = [-1, 1, 0, 0, -1, 1, 0, 0]
+        trial 519 score 5.51 abs_dx 5.36 dist 9.02
+Trying strategy no. 519 param = [1, 0, -1, -1, 1, 1, 0, -1]
+        trial 520 score 11.98 abs_dx 4.25 dist 8.89
+Trying strategy no. 520 param = [0, 0, 1, 1, 0, 1, -1, 0]
+        trial 521 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 521 param = [0, 1, -1, -1, 1, 0, 1, -1]
+        trial 522 score 17.61 abs_dx 17.61 dist 24.57
+Trying strategy no. 522 param = [1, 0, 0, 1, 1, 1, -1, 1]
+        trial 523 score 13.99 abs_dx 9.71 dist 9.72
+Trying strategy no. 523 param = [1, 0, 1, -1, 1, 1, 1, -1]
+        trial 524 score 12.8 abs_dx 12.62 dist 15.54
+Trying strategy no. 524 param = [1, 0, 1, 1, 1, 1, -1, 0]
+        trial 525 score 19.38 abs_dx 17.57 dist 17.57
+Trying strategy no. 525 param = [0, 0, 1, 0, 0, 0, 1, -1]
+        trial 526 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 526 param = [0, 1, -1, -1, 0, 0, -1, -1]
+        trial 527 score 4.42 abs_dx 0.32 dist 18.06
+Trying strategy no. 527 param = [-1, 1, -1, -1, 0, 0, 0, 0]
+        trial 528 score 42.4 abs_dx 42.4 dist 42.4
+Trying strategy no. 528 param = [-1, 1, 0, 0, -1, 0, 1, -1]
+        trial 529 score 9.03 abs_dx 9.03 dist 13.01
+Trying strategy no. 529 param = [1, 0, 1, -1, -1, -1, 1, 0]
+        trial 530 score 17.54 abs_dx 9.84 dist 35.39
+Trying strategy no. 530 param = [1, 0, -1, 1, -1, 1, -1, -1]
+        trial 531 score 9.12 abs_dx 5.12 dist 6.43
+Trying strategy no. 531 param = [1, 0, 0, -1, 0, 1, 1, -1]
+        trial 532 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 532 param = [0, 1, 0, 1, -1, 0, 1, -1]
+        trial 533 score 18.98 abs_dx 16.94 dist 17.29
+Trying strategy no. 533 param = [0, 0, 1, -1, 1, -1, -1, 0]
+        trial 534 score 0.26 abs_dx 0.01 dist 0.13
+Trying strategy no. 534 param = [1, 1, 0, 0, 1, -1, 1, 0]
+        trial 535 score 14.5 abs_dx 0.64 dist 11.65
+Trying strategy no. 535 param = [-1, 0, 1, -1, -1, 0, 0, 0]
+        trial 536 score 12.88 abs_dx 8.08 dist 42.38
+Trying strategy no. 536 param = [1, 0, 0, -1, 0, 1, 0, 0]
+        trial 537 score 1.58 abs_dx 0.29 dist 2.86
+Trying strategy no. 537 param = [0, 0, 1, 0, -1, -1, 0, 0]
+        trial 538 score 14.35 abs_dx 10.57 dist 10.84
+Trying strategy no. 538 param = [-1, 1, -1, 0, -1, -1, 1, 1]
+        trial 539 score 42.81 abs_dx 42.81 dist 46.6
+Trying strategy no. 539 param = [-1, 0, 1, 1, 0, 1, -1, -1]
+        trial 540 score 17.13 abs_dx 13.24 dist 13.28
+Trying strategy no. 540 param = [1, 0, -1, -1, -1, -1, -1, 0]
+        trial 541 score 0.19 abs_dx 0.11 dist 2.84
+Trying strategy no. 541 param = [1, 1, 1, 1, 0, 1, -1, -1]
+        trial 542 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 542 param = [0, -1, -1, 1, 1, 0, -1, -1]
+        trial 543 score 19.21 abs_dx 8.22 dist 17.03
+Trying strategy no. 543 param = [0, 0, 0, -1, -1, 1, 1, 1]
+        trial 544 score 13.72 abs_dx 11.11 dist 13.81
+Trying strategy no. 544 param = [-1, 0, 1, -1, -1, 1, -1, -1]
+        trial 545 score 12.64 abs_dx 9.64 dist 11.5
+Trying strategy no. 545 param = [0, 0, 1, 1, 1, 1, 1, 1]
+        trial 546 score 15.59 abs_dx 7.67 dist 17.7
+Trying strategy no. 546 param = [-1, 1, -1, 1, 0, 1, -1, 1]
+        trial 547 score 9.06 abs_dx 9.06 dist 9.23
+Trying strategy no. 547 param = [0, 1, 0, 1, 1, -1, -1, 0]
+        trial 548 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 548 param = [1, 1, -1, 1, -1, -1, 1, 1]
+        trial 549 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 549 param = [1, 1, 0, 1, 0, 0, -1, 1]
+        trial 550 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 550 param = [-1, 0, 0, 1, -1, 0, 0, 1]
+        trial 551 score 2.89 abs_dx 2.89 dist 3.05
+Trying strategy no. 551 param = [1, 0, 1, 1, 1, 1, 0, 0]
+        trial 552 score 13.54 abs_dx 13.14 dist 13.76
+Trying strategy no. 552 param = [-1, -1, 1, 1, 0, -1, -1, 0]
+        trial 553 score 9.01 abs_dx 9.01 dist 12.03
+Trying strategy no. 553 param = [0, 1, 1, 1, 0, 0, 1, 1]
+        trial 554 score 12.02 abs_dx 0.2 dist 5.48
+Trying strategy no. 554 param = [1, 1, -1, 1, -1, -1, -1, -1]
+        trial 555 score 10.97 abs_dx 4.61 dist 21.58
+Trying strategy no. 555 param = [0, 1, 0, 0, 1, -1, 0, 1]
+        trial 556 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 556 param = [-1, 1, 0, 1, 1, 0, 1, -1]
+        trial 557 score 18.0 abs_dx 16.66 dist 24.01
+Trying strategy no. 557 param = [0, 1, 0, 1, -1, 0, 0, 1]
+        trial 558 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 558 param = [0, 1, -1, 0, 0, -1, 0, 1]
+        trial 559 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 559 param = [1, 1, -1, -1, 1, -1, 1, 0]
+        trial 560 score 1.76 abs_dx 1.01 dist 22.14
+Trying strategy no. 560 param = [0, 1, 1, 0, 1, 1, -1, 0]
+        trial 561 score 18.95 abs_dx 16.77 dist 16.78
+Trying strategy no. 561 param = [1, 0, -1, -1, -1, 0, 1, 1]
+        trial 562 score 2.46 abs_dx 2.46 dist 2.5
+Trying strategy no. 562 param = [-1, 1, 0, -1, 1, 1, -1, -1]
+        trial 563 score 4.19 abs_dx 0.5 dist 13.33
+Trying strategy no. 563 param = [1, -1, -1, 0, -1, 0, 0, 1]
+        trial 564 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 564 param = [0, 1, 0, 1, -1, 1, -1, -1]
+        trial 565 score 13.07 abs_dx 13.04 dist 18.07
+Trying strategy no. 565 param = [1, 0, 1, 0, -1, -1, 0, 0]
+        trial 566 score 12.52 abs_dx 1.72 dist 4.37
+Trying strategy no. 566 param = [-1, -1, 0, -1, 1, 1, -1, -1]
+        trial 567 score 17.98 abs_dx 17.98 dist 41.76
+Trying strategy no. 567 param = [0, -1, 0, 0, -1, -1, 0, 1]
+        trial 568 score 0.05 abs_dx 0.05 dist 0.05
+Trying strategy no. 568 param = [0, 0, -1, -1, 1, -1, 1, 0]
+        trial 569 score 14.72 abs_dx 14.37 dist 30.05
+Trying strategy no. 569 param = [1, 0, 1, -1, -1, -1, 1, -1]
+        trial 570 score 14.29 abs_dx 12.29 dist 12.3
+Trying strategy no. 570 param = [-1, 0, -1, 1, 1, 1, 0, -1]
+        trial 571 score 11.94 abs_dx 2.25 dist 4.12
+Trying strategy no. 571 param = [-1, -1, 1, -1, 0, 1, -1, 0]
+        trial 572 score 42.18 abs_dx 42.18 dist 43.72
+Trying strategy no. 572 param = [1, 0, 1, 1, 1, 1, 1, -1]
+        trial 573 score 12.73 abs_dx 12.29 dist 14.6
+Trying strategy no. 573 param = [1, 1, 0, -1, 1, 1, 1, 0]
+        trial 574 score 9.93 abs_dx 6.43 dist 17.8
+Trying strategy no. 574 param = [0, 1, 0, -1, 0, -1, -1, 1]
+        trial 575 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 575 param = [1, -1, -1, -1, 0, -1, 0, -1]
+        trial 576 score 0.56 abs_dx 0.55 dist 0.82
+Trying strategy no. 576 param = [1, 0, 1, -1, 1, 0, -1, -1]
+        trial 577 score 3.34 abs_dx 3.34 dist 53.07
+Trying strategy no. 577 param = [-1, -1, 0, 1, -1, 1, 1, -1]
+        trial 578 score 4.12 abs_dx 0.26 dist 13.14
+Trying strategy no. 578 param = [1, 0, 1, 1, 1, 1, -1, 0]
+        trial 579 score 19.38 abs_dx 17.57 dist 17.57
+Trying strategy no. 579 param = [1, 0, 1, 1, -1, -1, 0, -1]
+        trial 580 score 11.73 abs_dx 7.92 dist 9.13
+Trying strategy no. 580 param = [-1, 0, 0, -1, -1, 1, 0, 0]
+        trial 581 score 34.24 abs_dx 34.24 dist 63.03
+Trying strategy no. 581 param = [-1, -1, -1, 0, -1, -1, 1, 0]
+        trial 582 score 16.1 abs_dx 7.32 dist 42.49
+Trying strategy no. 582 param = [0, 1, 0, 1, -1, -1, 0, 0]
+        trial 583 score 11.79 abs_dx 2.49 dist 5.75
+Trying strategy no. 583 param = [-1, 1, 0, 0, 0, 1, 0, 0]
+        trial 584 score 9.05 abs_dx 9.05 dist 10.37
+Trying strategy no. 584 param = [1, -1, 1, -1, 0, -1, -1, -1]
+        trial 585 score 1.92 abs_dx 0.42 dist 4.64
+Trying strategy no. 585 param = [-1, -1, 1, 1, 1, -1, 0, 0]
+        trial 586 score 9.02 abs_dx 9.02 dist 9.93
+Trying strategy no. 586 param = [-1, 1, 1, 1, 0, 0, 1, -1]
+        trial 587 score 42.95 abs_dx 42.95 dist 53.31
+Trying strategy no. 587 param = [0, -1, 0, 0, -1, 0, 0, -1]
+        trial 588 score 9.12 abs_dx 5.48 dist 12.79
+Trying strategy no. 588 param = [-1, -1, 1, 0, 0, -1, 1, 0]
+        trial 589 score 42.88 abs_dx 42.88 dist 43.84
+Trying strategy no. 589 param = [1, -1, 1, 1, -1, 1, 1, 1]
+        trial 590 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 590 param = [0, 1, -1, 1, 1, -1, 1, 0]
+        trial 591 score 9.76 abs_dx 7.77 dist 23.4
+Trying strategy no. 591 param = [1, 1, 0, 1, 0, 0, 0, 0]
+        trial 592 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 592 param = [0, 0, 0, -1, 0, 1, 0, 1]
+        trial 593 score 9.3 abs_dx 4.82 dist 7.5
+Trying strategy no. 593 param = [-1, -1, 1, 1, 0, 1, 0, 0]
+        trial 594 score 9.05 abs_dx 9.05 dist 12.62
+Trying strategy no. 594 param = [-1, -1, -1, 0, -1, 0, 1, -1]
+        trial 595 score 15.13 abs_dx 0.01 dist 2.53
+Trying strategy no. 595 param = [1, 1, 0, -1, -1, 0, -1, 1]
+        trial 596 score 9.77 abs_dx 0.14 dist 25.45
+Trying strategy no. 596 param = [-1, 1, -1, 1, -1, -1, -1, -1]
+        trial 597 score 9.09 abs_dx 9.09 dist 9.23
+Trying strategy no. 597 param = [1, 1, -1, -1, -1, 0, -1, 0]
+        trial 598 score 1.75 abs_dx 1.75 dist 49.99
+Trying strategy no. 598 param = [0, -1, -1, 0, 0, 0, 1, -1]
+        trial 599 score 42.54 abs_dx 42.54 dist 45.37
+Trying strategy no. 599 param = [1, -1, -1, 0, 1, 1, 1, 1]
+        trial 600 score 0.17 abs_dx 0.07 dist 2.81
+Trying strategy no. 600 param = [-1, 0, 0, 1, -1, -1, -1, 0]
+        trial 601 score 9.07 abs_dx 9.07 dist 11.1
+Trying strategy no. 601 param = [-1, 1, -1, 1, 1, -1, -1, -1]
+        trial 602 score 9.02 abs_dx 9.02 dist 9.03
+Trying strategy no. 602 param = [-1, -1, -1, -1, 1, 0, 0, 0]
+        trial 603 score 15.05 abs_dx 8.83 dist 29.62
+Trying strategy no. 603 param = [1, 0, 0, -1, 1, 1, 1, 0]
+        trial 604 score 1.49 abs_dx 0.1 dist 36.82
+Trying strategy no. 604 param = [0, 0, 0, 0, 0, 0, 0, 0]
+        trial 605 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 605 param = [1, 0, 0, 0, 1, -1, -1, 0]
+        trial 606 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 606 param = [-1, -1, 1, 1, -1, 0, 1, -1]
+        trial 607 score 9.06 abs_dx 9.06 dist 17.04
+Trying strategy no. 607 param = [1, 0, -1, 0, 0, 0, 0, 0]
+        trial 608 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 608 param = [1, 0, -1, -1, 1, 0, 0, -1]
+        trial 609 score 0.0 abs_dx 0.0 dist 0.74
+Trying strategy no. 609 param = [-1, 1, 0, 0, 1, -1, -1, -1]
+        trial 610 score 9.04 abs_dx 9.04 dist 9.8
+Trying strategy no. 610 param = [-1, 1, 0, -1, -1, 1, 0, -1]
+        trial 611 score 5.29 abs_dx 0.02 dist 10.85
+Trying strategy no. 611 param = [-1, 0, -1, 0, -1, 0, 0, 0]
+        trial 612 score 13.9 abs_dx 7.7 dist 44.51
+Trying strategy no. 612 param = [-1, 1, 0, 0, 1, 0, 0, -1]
+        trial 613 score 2.69 abs_dx 2.69 dist 2.83
+Trying strategy no. 613 param = [-1, 0, 1, 0, 0, 0, -1, 0]
+        trial 614 score 9.07 abs_dx 9.07 dist 9.14
+Trying strategy no. 614 param = [0, -1, 0, -1, 1, -1, -1, 1]
+        trial 615 score 42.48 abs_dx 42.48 dist 50.5
+Trying strategy no. 615 param = [0, 0, -1, 1, 1, 1, -1, 0]
+        trial 616 score 0.13 abs_dx 0.0 dist 2.3
+Trying strategy no. 616 param = [1, -1, 0, -1, 0, 1, 0, 0]
+        trial 617 score 9.52 abs_dx 0.0 dist 3.92
+Trying strategy no. 617 param = [0, 1, 0, 1, 0, -1, -1, -1]
+        trial 618 score 10.98 abs_dx 7.04 dist 8.0
+Trying strategy no. 618 param = [-1, 0, 0, -1, 1, -1, 0, 1]
+        trial 619 score 29.11 abs_dx 29.11 dist 39.16
+Trying strategy no. 619 param = [-1, 1, -1, 1, 1, 1, 1, 0]
+        trial 620 score 9.02 abs_dx 9.02 dist 9.24
+Trying strategy no. 620 param = [-1, 1, 0, 0, 1, 0, -1, -1]
+        trial 621 score 3.08 abs_dx 3.08 dist 3.25
+Trying strategy no. 621 param = [1, 0, 0, 1, 1, -1, 1, 1]
+        trial 622 score 11.4 abs_dx 0.23 dist 7.86
+Trying strategy no. 622 param = [0, -1, -1, 1, 0, 0, 1, 0]
+        trial 623 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 623 param = [0, 1, 1, 0, -1, -1, 0, -1]
+        trial 624 score 15.55 abs_dx 9.86 dist 18.65
+Trying strategy no. 624 param = [-1, 1, 0, -1, -1, 1, 0, 1]
+        trial 625 score 18.73 abs_dx 7.49 dist 27.92
+Trying strategy no. 625 param = [-1, 1, -1, 1, -1, 0, -1, 0]
+        trial 626 score 9.07 abs_dx 9.07 dist 9.23
+Trying strategy no. 626 param = [0, 1, 0, 1, 1, 1, 1, -1]
+        trial 627 score 12.62 abs_dx 12.22 dist 18.06
+Trying strategy no. 627 param = [0, -1, 0, -1, 1, -1, -1, 0]
+        trial 628 score 18.07 abs_dx 9.07 dist 10.04
+Trying strategy no. 628 param = [-1, 0, 0, 1, -1, 1, 1, -1]
+        trial 629 score 2.66 abs_dx 2.66 dist 2.82
+Trying strategy no. 629 param = [1, 0, -1, 1, -1, 0, -1, 1]
+        trial 630 score 11.47 abs_dx 0.03 dist 9.61
+Trying strategy no. 630 param = [0, 1, 1, 0, -1, 0, 1, 0]
+        trial 631 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 631 param = [0, 0, -1, -1, 0, 1, 0, -1]
+        trial 632 score 42.87 abs_dx 42.87 dist 42.87
+Trying strategy no. 632 param = [0, -1, 0, 0, 0, -1, -1, -1]
+        trial 633 score 8.74 abs_dx 1.3 dist 1.6
+Trying strategy no. 633 param = [0, 1, 1, 0, 0, -1, 0, 1]
+        trial 634 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 634 param = [-1, -1, -1, 1, -1, 1, 1, -1]
+        trial 635 score 12.65 abs_dx 12.65 dist 53.97
+Trying strategy no. 635 param = [-1, 0, 1, 0, 1, 0, 0, -1]
+        trial 636 score 4.52 abs_dx 4.52 dist 5.23
+Trying strategy no. 636 param = [1, -1, 1, 0, 0, 1, -1, 0]
+        trial 637 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 637 param = [-1, 0, 0, 1, 0, 0, -1, 0]
+        trial 638 score 9.08 abs_dx 9.08 dist 10.19
+Trying strategy no. 638 param = [-1, 0, 0, 0, 1, -1, 1, 0]
+        trial 639 score 13.12 abs_dx 3.61 dist 23.7
+Trying strategy no. 639 param = [0, -1, 0, -1, 0, 1, 1, 0]
+        trial 640 score 15.05 abs_dx 4.9 dist 5.31
+Trying strategy no. 640 param = [0, 0, 0, 0, 0, 1, -1, 1]
+        trial 641 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 641 param = [0, -1, -1, -1, 1, 1, -1, 0]
+        trial 642 score 14.76 abs_dx 7.94 dist 8.27
+Trying strategy no. 642 param = [1, 1, 0, -1, 0, -1, 0, 1]
+        trial 643 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 643 param = [-1, -1, 0, -1, 1, 0, -1, -1]
+        trial 644 score 21.91 abs_dx 7.12 dist 17.8
+Trying strategy no. 644 param = [1, -1, -1, 1, -1, -1, 1, -1]
+        trial 645 score 43.0 abs_dx 42.59 dist 51.94
+Trying strategy no. 645 param = [0, 0, -1, 1, 1, -1, -1, 1]
+        trial 646 score 1.47 abs_dx 1.46 dist 2.04
+Trying strategy no. 646 param = [1, -1, 1, -1, -1, 0, -1, 1]
+        trial 647 score 2.02 abs_dx 0.54 dist 1.0
+Trying strategy no. 647 param = [-1, 1, 1, 0, -1, 1, 1, -1]
+        trial 648 score 41.69 abs_dx 38.9 dist 43.7
+Trying strategy no. 648 param = [1, 0, 1, -1, 0, -1, -1, -1]
+        trial 649 score 14.08 abs_dx 13.13 dist 17.2
+Trying strategy no. 649 param = [-1, 0, 0, 0, 1, 0, 0, 1]
+        trial 650 score 9.94 abs_dx 1.55 dist 11.03
+Trying strategy no. 650 param = [1, 1, 1, 1, -1, 0, 1, 0]
+        trial 651 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 651 param = [1, 1, -1, 0, 0, 0, 1, 1]
+        trial 652 score 9.26 abs_dx 0.14 dist 3.37
+Trying strategy no. 652 param = [-1, 0, -1, 0, 0, 1, 1, 1]
+        trial 653 score 11.05 abs_dx 0.69 dist 20.54
+Trying strategy no. 653 param = [0, 1, 1, 0, -1, 1, -1, 0]
+        trial 654 score 18.72 abs_dx 18.62 dist 26.26
+Trying strategy no. 654 param = [-1, 1, -1, 0, -1, -1, 1, 0]
+        trial 655 score 26.36 abs_dx 21.22 dist 55.63
+Trying strategy no. 655 param = [1, 0, 1, 1, 0, -1, 1, -1]
+        trial 656 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 656 param = [-1, 1, 1, -1, -1, -1, 0, -1]
+        trial 657 score 9.02 abs_dx 9.02 dist 15.62
+Trying strategy no. 657 param = [0, 0, 0, -1, 1, 0, -1, 0]
+        trial 658 score 0.26 abs_dx 0.21 dist 19.67
+Trying strategy no. 658 param = [-1, 0, 1, 1, 0, 0, -1, -1]
+        trial 659 score 14.57 abs_dx 12.28 dist 12.79
+Trying strategy no. 659 param = [-1, 1, 1, -1, 0, 1, -1, 1]
+        trial 660 score 9.09 abs_dx 9.09 dist 14.61
+Trying strategy no. 660 param = [-1, -1, 0, 0, 1, 0, 0, -1]
+        trial 661 score 26.43 abs_dx 26.43 dist 45.74
+Trying strategy no. 661 param = [1, 0, -1, 0, -1, 1, 1, 1]
+        trial 662 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 662 param = [0, 1, 1, 0, 1, 1, 0, 0]
+        trial 663 score 14.34 abs_dx 14.06 dist 14.14
+Trying strategy no. 663 param = [1, 0, 1, 1, -1, 0, -1, 1]
+        trial 664 score 14.97 abs_dx 0.11 dist 11.37
+Trying strategy no. 664 param = [1, -1, -1, 1, 0, -1, 1, 1]
+        trial 665 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 665 param = [0, 0, -1, 0, -1, 0, 0, -1]
+        trial 666 score 0.62 abs_dx 0.2 dist 2.82
+Trying strategy no. 666 param = [1, 1, 0, -1, 0, 0, -1, -1]
+        trial 667 score 7.78 abs_dx 0.02 dist 33.71
+Trying strategy no. 667 param = [0, 0, 1, 0, 1, 0, -1, 0]
+        trial 668 score 6.75 abs_dx 6.75 dist 53.34
+Trying strategy no. 668 param = [1, 0, 1, 1, 1, -1, 1, 1]
+        trial 669 score 12.01 abs_dx 0.24 dist 5.87
+Trying strategy no. 669 param = [-1, -1, 0, -1, 0, 0, 0, 1]
+        trial 670 score 14.97 abs_dx 12.53 dist 30.06
+Trying strategy no. 670 param = [0, 0, 0, 0, 0, 1, 0, 0]
+        trial 671 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 671 param = [-1, 1, 1, -1, 1, 0, 0, -1]
+        trial 672 score 3.03 abs_dx 3.03 dist 5.08
+Trying strategy no. 672 param = [0, -1, -1, 1, -1, 0, 1, 1]
+        trial 673 score 0.1 abs_dx 0.1 dist 0.14
+Trying strategy no. 673 param = [0, 0, 1, 0, -1, 1, 1, 1]
+        trial 674 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 674 param = [0, 1, -1, 0, 0, 0, -1, -1]
+        trial 675 score 1.36 abs_dx 0.02 dist 11.62
+Trying strategy no. 675 param = [0, -1, 0, 0, -1, 1, 1, -1]
+        trial 676 score 0.09 abs_dx 0.02 dist 0.38
+Trying strategy no. 676 param = [-1, 0, 0, 0, 1, -1, -1, 1]
+        trial 677 score 42.35 abs_dx 42.35 dist 47.16
+Trying strategy no. 677 param = [1, 1, -1, 0, 1, 1, 1, -1]
+        trial 678 score 9.1 abs_dx 5.25 dist 9.44
+Trying strategy no. 678 param = [-1, 1, 1, 0, -1, 0, 0, 0]
+        trial 679 score 18.27 abs_dx 11.74 dist 12.37
+Trying strategy no. 679 param = [0, 1, -1, 1, -1, 0, 1, -1]
+        trial 680 score 10.13 abs_dx 10.01 dist 46.18
+Trying strategy no. 680 param = [0, -1, -1, -1, 1, -1, 0, 0]
+        trial 681 score 38.38 abs_dx 38.38 dist 53.59
+Trying strategy no. 681 param = [1, 0, 1, 0, 0, -1, 1, 1]
+        trial 682 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 682 param = [1, 1, 0, 1, -1, 0, 1, 1]
+        trial 683 score 0.0 abs_dx 0 dist 0.0
+Trying strategy no. 683 param = [0, 1, 0, 0, -1, -1, 1, 0]
+        trial 684 score 15.93 abs_dx 14.03 dist 14.08
+Trying strategy no. 684 param = [-1, -1, 1, 1, 1, 1, 0, 0]
+        trial 685 score 9.07 abs_dx 9.07 dist 16.68
+Trying strategy no. 685 param = [-1, 1, 0, -1, 0, 1, -1, -1]
+        trial 686 score 9.08 abs_dx 0.0 dist 0.22
+Trying strategy no. 686 param = [1, -1, 1, 1, 1, 1, 1, 1]
+        trial 687 score 15.53 abs_dx 7.69 dist 18.66
+Trying strategy no. 687 param = [-1, 0, 0, 1, -1, -1, 0, 1]
+        trial 688 score 9.01 abs_dx 9.01 dist 10.95
+Trying strategy no. 688 param = [0, 0, -1, 1, -1, 1, 0, -1]
+        trial 689 score 3.34 abs_dx 0.04 dist 28.44
+Trying strategy no. 689 param = [1, -1, 1, 0, 1, 1, 0, 1]
+        trial 690 score 14.46 abs_dx 9.98 dist 15.66
+Trying strategy no. 690 param = [1, 1, -1, -1, -1, 0, 0, 0]
+        trial 691 score 3.95 abs_dx 0.91 dist 52.76
+Trying strategy no. 691 param = [-1, 0, 0, 1, 1, 1, 1, -1]
+        trial 692 score 9.06 abs_dx 9.06 dist 13.6
+Trying strategy no. 692 param = [0, -1, 1, 1, -1, -1, 0, 0]
+        trial 693 score 12.22 abs_dx 5.29 dist 21.3
+Trying strategy no. 693 param = [0, 0, 1, -1, -1, -1, -1, 1]
+        trial 694 score 8.0 abs_dx 8.0 dist 22.96
+Trying strategy no. 694 param = [1, -1, 1, 1, 0, 1, 1, 1]
+        trial 695 score 15.29 abs_dx 13.23 dist 20.07
+Trying strategy no. 695 param = [-1, -1, -1, 1, 1, 1, 0, 0]
+        trial 696 score 42.98 abs_dx 36.68 dist 44.57
+Trying strategy no. 696 param = [1, -1, -1, 0, 0, 0, 0, -1]
+        trial 697 score 0.86 abs_dx 0.86 dist 14.47
+Trying strategy no. 697 param = [0, 0, 0, 0, 0, 0, 1, -1]
+        trial 698 score 0.0 abs_dx 0.0 dist 0.0
+Trying strategy no. 698 param = [0, 1, -1, -1, 1, 0, 0, 1]
+        trial 699 score 7.47 abs_dx 1.4 dist 14.23
+Trying strategy no. 699 param = [1, 1, 1, -1, 0, -1, 0, -1]
+        trial 700 score 14.84 abs_dx 4.01 dist 5.85
+=== SEARCH DONE ===
+Best trial = 189 score = 55.36 param = [0, -1, -1, 1, 1, -1, 1, 0]
+[STOP]  2026-02-08 21:49:23 GMT
